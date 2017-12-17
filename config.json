@@ -1,10 +1,10 @@
-{
-    "lhost": "127.0.0.1",
-    "lport": 7777,
-    "domain": "xmr.miiwoo.cc",
-    "pool": "get.bi-chi.com:3333",
-    "addr": "43CrUdJrPmUb3hnn7CMgLz79Z6fg8A8G3bdNJU4SGkMjaEBYrcARwNZRnqfPEBJSAw8CxS5jvgEpk1yiZwVWS4M9AtFsuyZ",
-    "pass": "",
-	"key": "",
-	"cert": ""
+{                                                                                                                                                    
+    "lhost": "127.0.0.1",                                                                                                                            
+    "lport": 7778,                                                                                                                                   
+    "domain": "xmr.cdxfkj.cn",                                                                                                                       
+    "pool": "192.168.1.143:5555",                                                                                                                    
+    "addr": "46KLU3zxPAtUqKqd5VHQBd3Vxt1quP6JUd2CruioHTog5G34NnubN1Jc7dMtvgZhhq3caBJ2hPacqSWsxPmSJUwZFtd1373",                                       
+    "pass": "",                                                                                                                                      
+        "key": "",                                                                                                                                   
+        "cert": ""                                                                                                                                   
 }

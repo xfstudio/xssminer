@@ -10,6 +10,7 @@
       "resolved": "http://registry.npm.taobao.org/async-limiter/download/async-limiter-1.0.0.tgz",
       "version": "1.0.0"
     },
+    "forever": "^0.15.3",
     "safe-buffer": {
       "integrity": "sha1-iTMSr2myEj3vcfV4iQAWce6yyFM=",
       "resolved": "http://registry.npm.taobao.org/safe-buffer/download/safe-buffer-5.1.1.tgz",

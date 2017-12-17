@@ -1,0 +1,10 @@
+{
+    "lhost": "127.0.0.1",
+    "lport": 12345,
+    "domain": "127.0.0.1:12345",
+    "pool": "127.0.0.1:5555",
+    "addr": "43CrUdJrPmUb3hnn7CMgLz79Z6fg8A8G3bdNJU4SGkMjaEBYrcARwNZRnqfPEBJSAw8CxS5jvgEpk1yiZwVWS4M9AtFsuyZ",
+    "pass": "",
+	"key": "",
+	"cert": ""
+}
